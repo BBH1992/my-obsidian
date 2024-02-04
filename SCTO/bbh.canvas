@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"d8ffb43cf746cf3c","type":"text","text":"AR Drawing","x":-291,"y":-159,"width":250,"height":60},
+		{"id":"c0071665f8ea33a0","type":"text","text":"AR design prototype","x":-660,"y":-159,"width":250,"height":60},
+		{"id":"3ee9d556303eefb8","type":"file","file":"__Papers/Connell 1964.pdf","x":-884,"y":53,"width":400,"height":400},
+		{"id":"7c80e4079d0cc3b6","type":"file","file":"__Media/Pasted image 20221202163803.png","x":-365,"y":53,"width":398,"height":400},
+		{"id":"351e79c151e9e03e","x":-884,"y":540,"width":400,"height":400,"type":"file","file":"1️⃣ Primary Sources/Shabanov 2022a.md"},
+		{"id":"0f4e06d93a33385a","x":-167,"y":560,"width":400,"height":400,"type":"file","file":"Excalidraw/SLR github.md"},
+		{"id":"e00162f725107076","x":-884,"y":1000,"width":607,"height":380,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qyzzdMkU7Fw?si=7ceIa2zoCDxsbwjF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"}
+	],
+	"edges":[
+		{"id":"df422cbbde80957c","fromNode":"c0071665f8ea33a0","fromSide":"right","toNode":"d8ffb43cf746cf3c","toSide":"left"},
+		{"id":"b3f665c9640a2e2f","fromNode":"c0071665f8ea33a0","fromSide":"bottom","toNode":"3ee9d556303eefb8","toSide":"top"},
+		{"id":"75d356d07aa39f82","fromNode":"c0071665f8ea33a0","fromSide":"bottom","toNode":"7c80e4079d0cc3b6","toSide":"top"},
+		{"id":"c0e6af912f0ec4a2","fromNode":"7c80e4079d0cc3b6","fromSide":"bottom","toNode":"351e79c151e9e03e","toSide":"right"},
+		{"id":"90f0accb2e16eb4d","fromNode":"351e79c151e9e03e","fromSide":"right","toNode":"0f4e06d93a33385a","toSide":"left"},
+		{"id":"f8272d293ef6ba41","fromNode":"351e79c151e9e03e","fromSide":"bottom","toNode":"e00162f725107076","toSide":"top"}
+	]
+}
